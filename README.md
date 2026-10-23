@@ -45,3 +45,5 @@ The relationship between ratings and prices is relatively weak.
 Linear Regression was used to predict book prices.
 Conclusion
 This project demonstrates the complete data science process, including data collection, cleaning, visualisation, modelling, and evaluation using Python.
+
+https://github.com/funananit/books-to-scrape-project
